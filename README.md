@@ -57,8 +57,8 @@ Now, the Stack becomes empty, which means we have visited all the nodes, and our
 <h3> Program:</h3>
 
 ```
-Developed by: Kesav Deepak Sridharan
-Register Number: 212223230104
+Developed by: Mohamed Hameem Sajith J 
+Register Number: 212223240090 
 from collections import deque
 from collections import defaultdict
 def dfs(graph,start,visited,path):
